@@ -1,3 +1,4 @@
 # shanigautam1223
-This is my first repository,
-Author - Devloper Shani
+This is my first repository.
+<br>
+Author - Devloper Shani.
